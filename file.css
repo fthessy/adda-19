@@ -1,0 +1,12 @@
+img{
+  width:450px;
+  border: 10px dotted green;
+}
+h1{
+  color: limegreen;
+  font-size: 30px;
+  text-transform: uppercase
+}
+Body{
+  background-color:aqua;
+}
